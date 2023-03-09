@@ -1190,7 +1190,6 @@ Acer,Notebook,15.6,4,Nvidia,Windows 10,2.23,691.0,1920,1080,0,Intel,2.5,256,SSD
 Dell,Ultrabook,13.3,8,Intel,Linux,1.23,1099.0,3200,1800,0,Intel,2.4,256,SSD
 Acer,Gaming,17.3,16,Nvidia,Windows 10,4.2,2599.0,1920,1080,1,Intel,2.8,256,SSD
 Lenovo,Gaming,15.6,8,Nvidia,Windows 10,2.4,819.0,1920,1080,1,Intel,2.5,1000,HDD
-Other,2 in 1 Convertible,12.3,4,ARM,Chrome OS,1.15,659.0,2400,1600,1,Samsung,2.0,32,Flash
 HP,Notebook,15.6,4,Intel,Windows 10,1.86,485.0,1366,768,0,Intel,2.5,500,HDD
 Apple,Ultrabook,12.0,8,Intel,macOS,0.92,1163.0,2304,1440,1,Intel,1.1,256,Flash
 Dell,2 in 1 Convertible,13.3,8,Intel,Windows 10,1.6,1199.0,1920,1080,1,Intel,2.5,256,SSD
